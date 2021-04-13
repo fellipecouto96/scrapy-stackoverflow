@@ -9,13 +9,14 @@ class StackoverflowSpider(scrapy.Spider):
     start_urls = ['https://stackoverflow.com/jobs?pg=']
     
     def parse(self, response):
-        job_id = 1
+        job_id = 0
 
         #criando arquivo CSV
         jobsFile = open('jobsStackOverflow.csv', 'w', newline='', encoding='utf-8')
 
-        #criando objetivo de gravação
+        #criando objetivo de gravação e seu cabeçalho
         writejobsFile = csv.writer(jobsFile)
+        writejobsFile.writerow(["job_id", "company_name", "job_title", "job_location", "job_language"])
 
         for pag in range(33):
             start_urls = ['https://stackoverflow.com/jobs?pg=' + str(pag+1)]
