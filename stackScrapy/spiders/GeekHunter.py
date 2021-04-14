@@ -27,7 +27,7 @@ class StackoverflowSpider(scrapy.Spider):
             for i in range(9):
                 job_id = job_id + 1
                 job_title = response.xpath('//*[@class="job"]['+ str(i+1) +']/div[1]/span[1]/text()').get()
-                job_language = response.xpath('//*[@class="technologies"]/a/span/text()').getall()
+                job_language = response.xpath('//*[@class="job"]['+ str(i+1) +']/div[1]/div[1]/div[2]/a/span/text()').getall()
                 
                 #construindo JSON
                 yield {'job_id': job_id, 'job_title': job_title, 'job_language': job_language}

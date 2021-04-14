@@ -1,649 +1,649 @@
 job_id,job_title,job_language
-1,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-2,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-3,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-4,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-5,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-6,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-7,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-8,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-9,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-10,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-11,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-12,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-13,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-14,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-15,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-16,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-17,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-18,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-19,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-20,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-21,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS4', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-22,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-23,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-24,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-25,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-26,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-27,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-28,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-29,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-30,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-31,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-32,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-33,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-34,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-35,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-36,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-37,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-38,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-39,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-40,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-41,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-42,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-43,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-44,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-45,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-46,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-47,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-48,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-49,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-50,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-51,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-52,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-53,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-54,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-55,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-56,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-57,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-58,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-59,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-60,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-61,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-62,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-63,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-64,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-65,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-66,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-67,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-68,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-69,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-70,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-71,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-72,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-73,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-74,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-75,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-76,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-77,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-78,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-79,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-80,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-81,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-82,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-83,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-84,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-85,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-86,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-87,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-88,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-89,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-90,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-91,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-92,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-93,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-94,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-95,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-96,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-97,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-98,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-99,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-100,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-101,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-102,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-103,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-104,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-105,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-106,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-107,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-108,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-109,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-110,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-111,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-112,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-113,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-114,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-115,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-116,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-117,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-118,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-119,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-120,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-121,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-122,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-123,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-124,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-125,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-126,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-127,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-128,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-129,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-130,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-131,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-132,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-133,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-134,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-135,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-136,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-137,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-138,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-139,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-140,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-141,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-142,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-143,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-144,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-145,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-146,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-147,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-148,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-149,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-150,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-151,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-152,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-153,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-154,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-155,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-156,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-157,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-158,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-159,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-160,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-161,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-162,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-163,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-164,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-165,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-166,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-167,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-168,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-169,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-170,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-171,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-172,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-173,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-174,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-175,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-176,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-177,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-178,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-179,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-180,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-181,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-182,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-183,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-184,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-185,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-186,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-187,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-188,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-189,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-190,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-191,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-192,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-193,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-194,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-195,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-196,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-197,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-198,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-199,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-200,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-201,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-202,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-203,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-204,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-205,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-206,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-207,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-208,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-209,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-210,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-211,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-212,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-213,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-214,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-215,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-216,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-217,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-218,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-219,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-220,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-221,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-222,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-223,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-224,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-225,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-226,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-227,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-228,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-229,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-230,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-231,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-232,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-233,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-234,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-235,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-236,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-237,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-238,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-239,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-240,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-241,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-242,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-243,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-244,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-245,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-246,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-247,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-248,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-249,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-250,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-251,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-252,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-253,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-254,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-255,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-256,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-257,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-258,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-259,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-260,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-261,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-262,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-263,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-264,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-265,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-266,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-267,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-268,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-269,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-270,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-271,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-272,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-273,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-274,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-275,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-276,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-277,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-278,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-279,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-280,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-281,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-282,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-283,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-284,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-285,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-286,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-287,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-288,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-289,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-290,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-291,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-292,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-293,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-294,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-295,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-296,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-297,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-298,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-299,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-300,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-301,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-302,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-303,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-304,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-305,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-306,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-307,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-308,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-309,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-310,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-311,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-312,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-313,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-314,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-315,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-316,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-317,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-318,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-319,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-320,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-321,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-322,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-323,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-324,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-325,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-326,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-327,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-328,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-329,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-330,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-331,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-332,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-333,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-334,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-335,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-336,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-337,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-338,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-339,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-340,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-341,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-342,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-343,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-344,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-345,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-346,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-347,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-348,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-349,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-350,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-351,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-352,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-353,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-354,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-355,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-356,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-357,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-358,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-359,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-360,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-361,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-362,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-363,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-364,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-365,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-366,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-367,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-368,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-369,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-370,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-371,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-372,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-373,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-374,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-375,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-376,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-377,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-378,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-379,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-380,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-381,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-382,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-383,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-384,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-385,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-386,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-387,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-388,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-389,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-390,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-391,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-392,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-393,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-394,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-395,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-396,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-397,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-398,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-399,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-400,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-401,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-402,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-403,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-404,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-405,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-406,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-407,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-408,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-409,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-410,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-411,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-412,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-413,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-414,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-415,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-416,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-417,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-418,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-419,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-420,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-421,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-422,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-423,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-424,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-425,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-426,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-427,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-428,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-429,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-430,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-431,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-432,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-433,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-434,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-435,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-436,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-437,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-438,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-439,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-440,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-441,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-442,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-443,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-444,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-445,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-446,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-447,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-448,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-449,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-450,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-451,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-452,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-453,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-454,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-455,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-456,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-457,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-458,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-459,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-460,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-461,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-462,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-463,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-464,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-465,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-466,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-467,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-468,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-469,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-470,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-471,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-472,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-473,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-474,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-475,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-476,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-477,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-478,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-479,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-480,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-481,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-482,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-483,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-484,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-485,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-486,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-487,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-488,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-489,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-490,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-491,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-492,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-493,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-494,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-495,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-496,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-497,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-498,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-499,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-500,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-501,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-502,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-503,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-504,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-505,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-506,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-507,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-508,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-509,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-510,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-511,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-512,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-513,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-514,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-515,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-516,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-517,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-518,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-519,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-520,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-521,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-522,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-523,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-524,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-525,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-526,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-527,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-528,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-529,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-530,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-531,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-532,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-533,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-534,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-535,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-536,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-537,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-538,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-539,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-540,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-541,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-542,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-543,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-544,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-545,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-546,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-547,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-548,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-549,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-550,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-551,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-552,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-553,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-554,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-555,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-556,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-557,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-558,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-559,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-560,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-561,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-562,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-563,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-564,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-565,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-566,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-567,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-568,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-569,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-570,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-571,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-572,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-573,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-574,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-575,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-576,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-577,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-578,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-579,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-580,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-581,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-582,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-583,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-584,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-585,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-586,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-587,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-588,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-589,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-590,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-591,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-592,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-593,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-594,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-595,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-596,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-597,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-598,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-599,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-600,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-601,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-602,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-603,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-604,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-605,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-606,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-607,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-608,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-609,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-610,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-611,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-612,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-613,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-614,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-615,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-616,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-617,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-618,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-619,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-620,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-621,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-622,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-623,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-624,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-625,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-626,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-627,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-628,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-629,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-630,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-631,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-632,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-633,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-634,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-635,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-636,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-637,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-638,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-639,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-640,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-641,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-642,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-643,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-644,Mobile,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-645,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-646,Full-stack,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-647,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
-648,Front-end,"['Kotlin', 'Swift (iOS)', 'bdd', 'Git', 'Swift (iOS)', 'Java (Android)', 'CSS3', 'JavaScript', 'JavaScript', 'Node.js', 'CSS3', 'JavaScript', 'CSS3', 'JavaScript', 'JavaScript', 'React']"
+1,Mobile,['Kotlin']
+2,Mobile,['Swift (iOS)']
+3,Full-stack,"['bdd', 'Git']"
+4,Mobile,['Swift (iOS)']
+5,Mobile,['Java (Android)']
+6,Front-end,"['CSS3', 'JavaScript']"
+7,Full-stack,"['JavaScript', 'Node.js']"
+8,Front-end,"['CSS3', 'JavaScript']"
+9,Front-end,"['CSS3', 'JavaScript']"
+10,Mobile,['Kotlin']
+11,Mobile,['Swift (iOS)']
+12,Full-stack,"['bdd', 'Git']"
+13,Mobile,['Swift (iOS)']
+14,Mobile,['Java (Android)']
+15,Front-end,"['CSS3', 'JavaScript']"
+16,Full-stack,"['JavaScript', 'Node.js']"
+17,Front-end,"['CSS3', 'JavaScript']"
+18,Front-end,"['CSS3', 'JavaScript']"
+19,Mobile,['Kotlin']
+20,Mobile,['Swift (iOS)']
+21,Full-stack,"['bdd', 'Git']"
+22,Mobile,['Swift (iOS)']
+23,Mobile,['Java (Android)']
+24,Front-end,"['CSS3', 'JavaScript']"
+25,Full-stack,"['JavaScript', 'Node.js']"
+26,Front-end,"['CSS3', 'JavaScript']"
+27,Front-end,"['CSS3', 'JavaScript']"
+28,Mobile,['Kotlin']
+29,Mobile,['Swift (iOS)']
+30,Full-stack,"['bdd', 'Git']"
+31,Mobile,['Swift (iOS)']
+32,Mobile,['Java (Android)']
+33,Front-end,"['CSS3', 'JavaScript']"
+34,Full-stack,"['JavaScript', 'Node.js']"
+35,Front-end,"['CSS3', 'JavaScript']"
+36,Front-end,"['CSS3', 'JavaScript']"
+37,Mobile,['Kotlin']
+38,Mobile,['Swift (iOS)']
+39,Full-stack,"['bdd', 'Git']"
+40,Mobile,['Swift (iOS)']
+41,Mobile,['Java (Android)']
+42,Front-end,"['CSS3', 'JavaScript']"
+43,Full-stack,"['JavaScript', 'Node.js']"
+44,Front-end,"['CSS3', 'JavaScript']"
+45,Front-end,"['CSS3', 'JavaScript']"
+46,Mobile,['Kotlin']
+47,Mobile,['Swift (iOS)']
+48,Full-stack,"['bdd', 'Git']"
+49,Mobile,['Swift (iOS)']
+50,Mobile,['Java (Android)']
+51,Front-end,"['CSS3', 'JavaScript']"
+52,Full-stack,"['JavaScript', 'Node.js']"
+53,Front-end,"['CSS3', 'JavaScript']"
+54,Front-end,"['CSS3', 'JavaScript']"
+55,Mobile,['Kotlin']
+56,Mobile,['Swift (iOS)']
+57,Full-stack,"['bdd', 'Git']"
+58,Mobile,['Swift (iOS)']
+59,Mobile,['Java (Android)']
+60,Front-end,"['CSS3', 'JavaScript']"
+61,Full-stack,"['JavaScript', 'Node.js']"
+62,Front-end,"['CSS3', 'JavaScript']"
+63,Front-end,"['CSS3', 'JavaScript']"
+64,Mobile,['Kotlin']
+65,Mobile,['Swift (iOS)']
+66,Full-stack,"['bdd', 'Git']"
+67,Mobile,['Swift (iOS)']
+68,Mobile,['Java (Android)']
+69,Front-end,"['CSS3', 'JavaScript']"
+70,Full-stack,"['JavaScript', 'Node.js']"
+71,Front-end,"['CSS3', 'JavaScript']"
+72,Front-end,"['CSS3', 'JavaScript']"
+73,Mobile,['Kotlin']
+74,Mobile,['Swift (iOS)']
+75,Full-stack,"['bdd', 'Git']"
+76,Mobile,['Swift (iOS)']
+77,Mobile,['Java (Android)']
+78,Front-end,"['CSS3', 'JavaScript']"
+79,Full-stack,"['JavaScript', 'Node.js']"
+80,Front-end,"['CSS3', 'JavaScript']"
+81,Front-end,"['CSS3', 'JavaScript']"
+82,Mobile,['Kotlin']
+83,Mobile,['Swift (iOS)']
+84,Full-stack,"['bdd', 'Git']"
+85,Mobile,['Swift (iOS)']
+86,Mobile,['Java (Android)']
+87,Front-end,"['CSS3', 'JavaScript']"
+88,Full-stack,"['JavaScript', 'Node.js']"
+89,Front-end,"['CSS3', 'JavaScript']"
+90,Front-end,"['CSS3', 'JavaScript']"
+91,Mobile,['Kotlin']
+92,Mobile,['Swift (iOS)']
+93,Full-stack,"['bdd', 'Git']"
+94,Mobile,['Swift (iOS)']
+95,Mobile,['Java (Android)']
+96,Front-end,"['CSS3', 'JavaScript']"
+97,Full-stack,"['JavaScript', 'Node.js']"
+98,Front-end,"['CSS3', 'JavaScript']"
+99,Front-end,"['CSS3', 'JavaScript']"
+100,Mobile,['Kotlin']
+101,Mobile,['Swift (iOS)']
+102,Full-stack,"['bdd', 'Git']"
+103,Mobile,['Swift (iOS)']
+104,Mobile,['Java (Android)']
+105,Front-end,"['CSS3', 'JavaScript']"
+106,Full-stack,"['JavaScript', 'Node.js']"
+107,Front-end,"['CSS3', 'JavaScript']"
+108,Front-end,"['CSS3', 'JavaScript']"
+109,Mobile,['Kotlin']
+110,Mobile,['Swift (iOS)']
+111,Full-stack,"['bdd', 'Git']"
+112,Mobile,['Swift (iOS)']
+113,Mobile,['Java (Android)']
+114,Front-end,"['CSS3', 'JavaScript']"
+115,Full-stack,"['JavaScript', 'Node.js']"
+116,Front-end,"['CSS3', 'JavaScript']"
+117,Front-end,"['CSS3', 'JavaScript']"
+118,Mobile,['Kotlin']
+119,Mobile,['Swift (iOS)']
+120,Full-stack,"['bdd', 'Git']"
+121,Mobile,['Swift (iOS)']
+122,Mobile,['Java (Android)']
+123,Front-end,"['CSS3', 'JavaScript']"
+124,Full-stack,"['JavaScript', 'Node.js']"
+125,Front-end,"['CSS3', 'JavaScript']"
+126,Front-end,"['CSS3', 'JavaScript']"
+127,Mobile,['Kotlin']
+128,Mobile,['Swift (iOS)']
+129,Full-stack,"['bdd', 'Git']"
+130,Mobile,['Swift (iOS)']
+131,Mobile,['Java (Android)']
+132,Front-end,"['CSS3', 'JavaScript']"
+133,Full-stack,"['JavaScript', 'Node.js']"
+134,Front-end,"['CSS3', 'JavaScript']"
+135,Front-end,"['CSS3', 'JavaScript']"
+136,Mobile,['Kotlin']
+137,Mobile,['Swift (iOS)']
+138,Full-stack,"['bdd', 'Git']"
+139,Mobile,['Swift (iOS)']
+140,Mobile,['Java (Android)']
+141,Front-end,"['CSS3', 'JavaScript']"
+142,Full-stack,"['JavaScript', 'Node.js']"
+143,Front-end,"['CSS3', 'JavaScript']"
+144,Front-end,"['CSS3', 'JavaScript']"
+145,Mobile,['Kotlin']
+146,Mobile,['Swift (iOS)']
+147,Full-stack,"['bdd', 'Git']"
+148,Mobile,['Swift (iOS)']
+149,Mobile,['Java (Android)']
+150,Front-end,"['CSS3', 'JavaScript']"
+151,Full-stack,"['JavaScript', 'Node.js']"
+152,Front-end,"['CSS3', 'JavaScript']"
+153,Front-end,"['CSS3', 'JavaScript']"
+154,Mobile,['Kotlin']
+155,Mobile,['Swift (iOS)']
+156,Full-stack,"['bdd', 'Git']"
+157,Mobile,['Swift (iOS)']
+158,Mobile,['Java (Android)']
+159,Front-end,"['CSS3', 'JavaScript']"
+160,Full-stack,"['JavaScript', 'Node.js']"
+161,Front-end,"['CSS3', 'JavaScript']"
+162,Front-end,"['CSS3', 'JavaScript']"
+163,Mobile,['Kotlin']
+164,Mobile,['Swift (iOS)']
+165,Full-stack,"['bdd', 'Git']"
+166,Mobile,['Swift (iOS)']
+167,Mobile,['Java (Android)']
+168,Front-end,"['CSS3', 'JavaScript']"
+169,Full-stack,"['JavaScript', 'Node.js']"
+170,Front-end,"['CSS3', 'JavaScript']"
+171,Front-end,"['CSS3', 'JavaScript']"
+172,Mobile,['Kotlin']
+173,Mobile,['Swift (iOS)']
+174,Full-stack,"['bdd', 'Git']"
+175,Mobile,['Swift (iOS)']
+176,Mobile,['Java (Android)']
+177,Front-end,"['CSS3', 'JavaScript']"
+178,Full-stack,"['JavaScript', 'Node.js']"
+179,Front-end,"['CSS3', 'JavaScript']"
+180,Front-end,"['CSS3', 'JavaScript']"
+181,Mobile,['Kotlin']
+182,Mobile,['Swift (iOS)']
+183,Full-stack,"['bdd', 'Git']"
+184,Mobile,['Swift (iOS)']
+185,Mobile,['Java (Android)']
+186,Front-end,"['CSS3', 'JavaScript']"
+187,Full-stack,"['JavaScript', 'Node.js']"
+188,Front-end,"['CSS3', 'JavaScript']"
+189,Front-end,"['CSS3', 'JavaScript']"
+190,Mobile,['Kotlin']
+191,Mobile,['Swift (iOS)']
+192,Full-stack,"['bdd', 'Git']"
+193,Mobile,['Swift (iOS)']
+194,Mobile,['Java (Android)']
+195,Front-end,"['CSS3', 'JavaScript']"
+196,Full-stack,"['JavaScript', 'Node.js']"
+197,Front-end,"['CSS3', 'JavaScript']"
+198,Front-end,"['CSS3', 'JavaScript']"
+199,Mobile,['Kotlin']
+200,Mobile,['Swift (iOS)']
+201,Full-stack,"['bdd', 'Git']"
+202,Mobile,['Swift (iOS)']
+203,Mobile,['Java (Android)']
+204,Front-end,"['CSS3', 'JavaScript']"
+205,Full-stack,"['JavaScript', 'Node.js']"
+206,Front-end,"['CSS3', 'JavaScript']"
+207,Front-end,"['CSS3', 'JavaScript']"
+208,Mobile,['Kotlin']
+209,Mobile,['Swift (iOS)']
+210,Full-stack,"['bdd', 'Git']"
+211,Mobile,['Swift (iOS)']
+212,Mobile,['Java (Android)']
+213,Front-end,"['CSS3', 'JavaScript']"
+214,Full-stack,"['JavaScript', 'Node.js']"
+215,Front-end,"['CSS3', 'JavaScript']"
+216,Front-end,"['CSS3', 'JavaScript']"
+217,Mobile,['Kotlin']
+218,Mobile,['Swift (iOS)']
+219,Full-stack,"['bdd', 'Git']"
+220,Mobile,['Swift (iOS)']
+221,Mobile,['Java (Android)']
+222,Front-end,"['CSS3', 'JavaScript']"
+223,Full-stack,"['JavaScript', 'Node.js']"
+224,Front-end,"['CSS3', 'JavaScript']"
+225,Front-end,"['CSS3', 'JavaScript']"
+226,Mobile,['Kotlin']
+227,Mobile,['Swift (iOS)']
+228,Full-stack,"['bdd', 'Git']"
+229,Mobile,['Swift (iOS)']
+230,Mobile,['Java (Android)']
+231,Front-end,"['CSS3', 'JavaScript']"
+232,Full-stack,"['JavaScript', 'Node.js']"
+233,Front-end,"['CSS3', 'JavaScript']"
+234,Front-end,"['CSS3', 'JavaScript']"
+235,Mobile,['Kotlin']
+236,Mobile,['Swift (iOS)']
+237,Full-stack,"['bdd', 'Git']"
+238,Mobile,['Swift (iOS)']
+239,Mobile,['Java (Android)']
+240,Front-end,"['CSS3', 'JavaScript']"
+241,Full-stack,"['JavaScript', 'Node.js']"
+242,Front-end,"['CSS3', 'JavaScript']"
+243,Front-end,"['CSS3', 'JavaScript']"
+244,Mobile,['Kotlin']
+245,Mobile,['Swift (iOS)']
+246,Full-stack,"['bdd', 'Git']"
+247,Mobile,['Swift (iOS)']
+248,Mobile,['Java (Android)']
+249,Front-end,"['CSS3', 'JavaScript']"
+250,Full-stack,"['JavaScript', 'Node.js']"
+251,Front-end,"['CSS3', 'JavaScript']"
+252,Front-end,"['CSS3', 'JavaScript']"
+253,Mobile,['Kotlin']
+254,Mobile,['Swift (iOS)']
+255,Full-stack,"['bdd', 'Git']"
+256,Mobile,['Swift (iOS)']
+257,Mobile,['Java (Android)']
+258,Front-end,"['CSS3', 'JavaScript']"
+259,Full-stack,"['JavaScript', 'Node.js']"
+260,Front-end,"['CSS3', 'JavaScript']"
+261,Front-end,"['CSS3', 'JavaScript']"
+262,Mobile,['Kotlin']
+263,Mobile,['Swift (iOS)']
+264,Full-stack,"['bdd', 'Git']"
+265,Mobile,['Swift (iOS)']
+266,Mobile,['Java (Android)']
+267,Front-end,"['CSS3', 'JavaScript']"
+268,Full-stack,"['JavaScript', 'Node.js']"
+269,Front-end,"['CSS3', 'JavaScript']"
+270,Front-end,"['CSS3', 'JavaScript']"
+271,Mobile,['Kotlin']
+272,Mobile,['Swift (iOS)']
+273,Full-stack,"['bdd', 'Git']"
+274,Mobile,['Swift (iOS)']
+275,Mobile,['Java (Android)']
+276,Front-end,"['CSS3', 'JavaScript']"
+277,Full-stack,"['JavaScript', 'Node.js']"
+278,Front-end,"['CSS3', 'JavaScript']"
+279,Front-end,"['CSS3', 'JavaScript']"
+280,Mobile,['Kotlin']
+281,Mobile,['Swift (iOS)']
+282,Full-stack,"['bdd', 'Git']"
+283,Mobile,['Swift (iOS)']
+284,Mobile,['Java (Android)']
+285,Front-end,"['CSS3', 'JavaScript']"
+286,Full-stack,"['JavaScript', 'Node.js']"
+287,Front-end,"['CSS3', 'JavaScript']"
+288,Front-end,"['CSS3', 'JavaScript']"
+289,Mobile,['Kotlin']
+290,Mobile,['Swift (iOS)']
+291,Full-stack,"['bdd', 'Git']"
+292,Mobile,['Swift (iOS)']
+293,Mobile,['Java (Android)']
+294,Front-end,"['CSS3', 'JavaScript']"
+295,Full-stack,"['JavaScript', 'Node.js']"
+296,Front-end,"['CSS3', 'JavaScript']"
+297,Front-end,"['CSS3', 'JavaScript']"
+298,Mobile,['Kotlin']
+299,Mobile,['Swift (iOS)']
+300,Full-stack,"['bdd', 'Git']"
+301,Mobile,['Swift (iOS)']
+302,Mobile,['Java (Android)']
+303,Front-end,"['CSS3', 'JavaScript']"
+304,Full-stack,"['JavaScript', 'Node.js']"
+305,Front-end,"['CSS3', 'JavaScript']"
+306,Front-end,"['CSS3', 'JavaScript']"
+307,Mobile,['Kotlin']
+308,Mobile,['Swift (iOS)']
+309,Full-stack,"['bdd', 'Git']"
+310,Mobile,['Swift (iOS)']
+311,Mobile,['Java (Android)']
+312,Front-end,"['CSS3', 'JavaScript']"
+313,Full-stack,"['JavaScript', 'Node.js']"
+314,Front-end,"['CSS3', 'JavaScript']"
+315,Front-end,"['CSS3', 'JavaScript']"
+316,Mobile,['Kotlin']
+317,Mobile,['Swift (iOS)']
+318,Full-stack,"['bdd', 'Git']"
+319,Mobile,['Swift (iOS)']
+320,Mobile,['Java (Android)']
+321,Front-end,"['CSS3', 'JavaScript']"
+322,Full-stack,"['JavaScript', 'Node.js']"
+323,Front-end,"['CSS3', 'JavaScript']"
+324,Front-end,"['CSS3', 'JavaScript']"
+325,Mobile,['Kotlin']
+326,Mobile,['Swift (iOS)']
+327,Full-stack,"['bdd', 'Git']"
+328,Mobile,['Swift (iOS)']
+329,Mobile,['Java (Android)']
+330,Front-end,"['CSS3', 'JavaScript']"
+331,Full-stack,"['JavaScript', 'Node.js']"
+332,Front-end,"['CSS3', 'JavaScript']"
+333,Front-end,"['CSS3', 'JavaScript']"
+334,Mobile,['Kotlin']
+335,Mobile,['Swift (iOS)']
+336,Full-stack,"['bdd', 'Git']"
+337,Mobile,['Swift (iOS)']
+338,Mobile,['Java (Android)']
+339,Front-end,"['CSS3', 'JavaScript']"
+340,Full-stack,"['JavaScript', 'Node.js']"
+341,Front-end,"['CSS3', 'JavaScript']"
+342,Front-end,"['CSS3', 'JavaScript']"
+343,Mobile,['Kotlin']
+344,Mobile,['Swift (iOS)']
+345,Full-stack,"['bdd', 'Git']"
+346,Mobile,['Swift (iOS)']
+347,Mobile,['Java (Android)']
+348,Front-end,"['CSS3', 'JavaScript']"
+349,Full-stack,"['JavaScript', 'Node.js']"
+350,Front-end,"['CSS3', 'JavaScript']"
+351,Front-end,"['CSS3', 'JavaScript']"
+352,Mobile,['Kotlin']
+353,Mobile,['Swift (iOS)']
+354,Full-stack,"['bdd', 'Git']"
+355,Mobile,['Swift (iOS)']
+356,Mobile,['Java (Android)']
+357,Front-end,"['CSS3', 'JavaScript']"
+358,Full-stack,"['JavaScript', 'Node.js']"
+359,Front-end,"['CSS3', 'JavaScript']"
+360,Front-end,"['CSS3', 'JavaScript']"
+361,Mobile,['Kotlin']
+362,Mobile,['Swift (iOS)']
+363,Full-stack,"['bdd', 'Git']"
+364,Mobile,['Swift (iOS)']
+365,Mobile,['Java (Android)']
+366,Front-end,"['CSS3', 'JavaScript']"
+367,Full-stack,"['JavaScript', 'Node.js']"
+368,Front-end,"['CSS3', 'JavaScript']"
+369,Front-end,"['CSS3', 'JavaScript']"
+370,Mobile,['Kotlin']
+371,Mobile,['Swift (iOS)']
+372,Full-stack,"['bdd', 'Git']"
+373,Mobile,['Swift (iOS)']
+374,Mobile,['Java (Android)']
+375,Front-end,"['CSS3', 'JavaScript']"
+376,Full-stack,"['JavaScript', 'Node.js']"
+377,Front-end,"['CSS3', 'JavaScript']"
+378,Front-end,"['CSS3', 'JavaScript']"
+379,Mobile,['Kotlin']
+380,Mobile,['Swift (iOS)']
+381,Full-stack,"['bdd', 'Git']"
+382,Mobile,['Swift (iOS)']
+383,Mobile,['Java (Android)']
+384,Front-end,"['CSS3', 'JavaScript']"
+385,Full-stack,"['JavaScript', 'Node.js']"
+386,Front-end,"['CSS3', 'JavaScript']"
+387,Front-end,"['CSS3', 'JavaScript']"
+388,Mobile,['Kotlin']
+389,Mobile,['Swift (iOS)']
+390,Full-stack,"['bdd', 'Git']"
+391,Mobile,['Swift (iOS)']
+392,Mobile,['Java (Android)']
+393,Front-end,"['CSS3', 'JavaScript']"
+394,Full-stack,"['JavaScript', 'Node.js']"
+395,Front-end,"['CSS3', 'JavaScript']"
+396,Front-end,"['CSS3', 'JavaScript']"
+397,Mobile,['Kotlin']
+398,Mobile,['Swift (iOS)']
+399,Full-stack,"['bdd', 'Git']"
+400,Mobile,['Swift (iOS)']
+401,Mobile,['Java (Android)']
+402,Front-end,"['CSS3', 'JavaScript']"
+403,Full-stack,"['JavaScript', 'Node.js']"
+404,Front-end,"['CSS3', 'JavaScript']"
+405,Front-end,"['CSS3', 'JavaScript']"
+406,Mobile,['Kotlin']
+407,Mobile,['Swift (iOS)']
+408,Full-stack,"['bdd', 'Git']"
+409,Mobile,['Swift (iOS)']
+410,Mobile,['Java (Android)']
+411,Front-end,"['CSS3', 'JavaScript']"
+412,Full-stack,"['JavaScript', 'Node.js']"
+413,Front-end,"['CSS3', 'JavaScript']"
+414,Front-end,"['CSS3', 'JavaScript']"
+415,Mobile,['Kotlin']
+416,Mobile,['Swift (iOS)']
+417,Full-stack,"['bdd', 'Git']"
+418,Mobile,['Swift (iOS)']
+419,Mobile,['Java (Android)']
+420,Front-end,"['CSS3', 'JavaScript']"
+421,Full-stack,"['JavaScript', 'Node.js']"
+422,Front-end,"['CSS3', 'JavaScript']"
+423,Front-end,"['CSS3', 'JavaScript']"
+424,Mobile,['Kotlin']
+425,Mobile,['Swift (iOS)']
+426,Full-stack,"['bdd', 'Git']"
+427,Mobile,['Swift (iOS)']
+428,Mobile,['Java (Android)']
+429,Front-end,"['CSS3', 'JavaScript']"
+430,Full-stack,"['JavaScript', 'Node.js']"
+431,Front-end,"['CSS3', 'JavaScript']"
+432,Front-end,"['CSS3', 'JavaScript']"
+433,Mobile,['Kotlin']
+434,Mobile,['Swift (iOS)']
+435,Full-stack,"['bdd', 'Git']"
+436,Mobile,['Swift (iOS)']
+437,Mobile,['Java (Android)']
+438,Front-end,"['CSS3', 'JavaScript']"
+439,Full-stack,"['JavaScript', 'Node.js']"
+440,Front-end,"['CSS3', 'JavaScript']"
+441,Front-end,"['CSS3', 'JavaScript']"
+442,Mobile,['Kotlin']
+443,Mobile,['Swift (iOS)']
+444,Full-stack,"['bdd', 'Git']"
+445,Mobile,['Swift (iOS)']
+446,Mobile,['Java (Android)']
+447,Front-end,"['CSS3', 'JavaScript']"
+448,Full-stack,"['JavaScript', 'Node.js']"
+449,Front-end,"['CSS3', 'JavaScript']"
+450,Front-end,"['CSS3', 'JavaScript']"
+451,Mobile,['Kotlin']
+452,Mobile,['Swift (iOS)']
+453,Full-stack,"['bdd', 'Git']"
+454,Mobile,['Swift (iOS)']
+455,Mobile,['Java (Android)']
+456,Front-end,"['CSS3', 'JavaScript']"
+457,Full-stack,"['JavaScript', 'Node.js']"
+458,Front-end,"['CSS3', 'JavaScript']"
+459,Front-end,"['CSS3', 'JavaScript']"
+460,Mobile,['Kotlin']
+461,Mobile,['Swift (iOS)']
+462,Full-stack,"['bdd', 'Git']"
+463,Mobile,['Swift (iOS)']
+464,Mobile,['Java (Android)']
+465,Front-end,"['CSS3', 'JavaScript']"
+466,Full-stack,"['JavaScript', 'Node.js']"
+467,Front-end,"['CSS3', 'JavaScript']"
+468,Front-end,"['CSS3', 'JavaScript']"
+469,Mobile,['Kotlin']
+470,Mobile,['Swift (iOS)']
+471,Full-stack,"['bdd', 'Git']"
+472,Mobile,['Swift (iOS)']
+473,Mobile,['Java (Android)']
+474,Front-end,"['CSS3', 'JavaScript']"
+475,Full-stack,"['JavaScript', 'Node.js']"
+476,Front-end,"['CSS3', 'JavaScript']"
+477,Front-end,"['CSS3', 'JavaScript']"
+478,Mobile,['Kotlin']
+479,Mobile,['Swift (iOS)']
+480,Full-stack,"['bdd', 'Git']"
+481,Mobile,['Swift (iOS)']
+482,Mobile,['Java (Android)']
+483,Front-end,"['CSS3', 'JavaScript']"
+484,Full-stack,"['JavaScript', 'Node.js']"
+485,Front-end,"['CSS3', 'JavaScript']"
+486,Front-end,"['CSS3', 'JavaScript']"
+487,Mobile,['Kotlin']
+488,Mobile,['Swift (iOS)']
+489,Full-stack,"['bdd', 'Git']"
+490,Mobile,['Swift (iOS)']
+491,Mobile,['Java (Android)']
+492,Front-end,"['CSS3', 'JavaScript']"
+493,Full-stack,"['JavaScript', 'Node.js']"
+494,Front-end,"['CSS3', 'JavaScript']"
+495,Front-end,"['CSS3', 'JavaScript']"
+496,Mobile,['Kotlin']
+497,Mobile,['Swift (iOS)']
+498,Full-stack,"['bdd', 'Git']"
+499,Mobile,['Swift (iOS)']
+500,Mobile,['Java (Android)']
+501,Front-end,"['CSS3', 'JavaScript']"
+502,Full-stack,"['JavaScript', 'Node.js']"
+503,Front-end,"['CSS3', 'JavaScript']"
+504,Front-end,"['CSS3', 'JavaScript']"
+505,Mobile,['Kotlin']
+506,Mobile,['Swift (iOS)']
+507,Full-stack,"['bdd', 'Git']"
+508,Mobile,['Swift (iOS)']
+509,Mobile,['Java (Android)']
+510,Front-end,"['CSS3', 'JavaScript']"
+511,Full-stack,"['JavaScript', 'Node.js']"
+512,Front-end,"['CSS3', 'JavaScript']"
+513,Front-end,"['CSS3', 'JavaScript']"
+514,Mobile,['Kotlin']
+515,Mobile,['Swift (iOS)']
+516,Full-stack,"['bdd', 'Git']"
+517,Mobile,['Swift (iOS)']
+518,Mobile,['Java (Android)']
+519,Front-end,"['CSS3', 'JavaScript']"
+520,Full-stack,"['JavaScript', 'Node.js']"
+521,Front-end,"['CSS3', 'JavaScript']"
+522,Front-end,"['CSS3', 'JavaScript']"
+523,Mobile,['Kotlin']
+524,Mobile,['Swift (iOS)']
+525,Full-stack,"['bdd', 'Git']"
+526,Mobile,['Swift (iOS)']
+527,Mobile,['Java (Android)']
+528,Front-end,"['CSS3', 'JavaScript']"
+529,Full-stack,"['JavaScript', 'Node.js']"
+530,Front-end,"['CSS3', 'JavaScript']"
+531,Front-end,"['CSS3', 'JavaScript']"
+532,Mobile,['Kotlin']
+533,Mobile,['Swift (iOS)']
+534,Full-stack,"['bdd', 'Git']"
+535,Mobile,['Swift (iOS)']
+536,Mobile,['Java (Android)']
+537,Front-end,"['CSS3', 'JavaScript']"
+538,Full-stack,"['JavaScript', 'Node.js']"
+539,Front-end,"['CSS3', 'JavaScript']"
+540,Front-end,"['CSS3', 'JavaScript']"
+541,Mobile,['Kotlin']
+542,Mobile,['Swift (iOS)']
+543,Full-stack,"['bdd', 'Git']"
+544,Mobile,['Swift (iOS)']
+545,Mobile,['Java (Android)']
+546,Front-end,"['CSS3', 'JavaScript']"
+547,Full-stack,"['JavaScript', 'Node.js']"
+548,Front-end,"['CSS3', 'JavaScript']"
+549,Front-end,"['CSS3', 'JavaScript']"
+550,Mobile,['Kotlin']
+551,Mobile,['Swift (iOS)']
+552,Full-stack,"['bdd', 'Git']"
+553,Mobile,['Swift (iOS)']
+554,Mobile,['Java (Android)']
+555,Front-end,"['CSS3', 'JavaScript']"
+556,Full-stack,"['JavaScript', 'Node.js']"
+557,Front-end,"['CSS3', 'JavaScript']"
+558,Front-end,"['CSS3', 'JavaScript']"
+559,Mobile,['Kotlin']
+560,Mobile,['Swift (iOS)']
+561,Full-stack,"['bdd', 'Git']"
+562,Mobile,['Swift (iOS)']
+563,Mobile,['Java (Android)']
+564,Front-end,"['CSS3', 'JavaScript']"
+565,Full-stack,"['JavaScript', 'Node.js']"
+566,Front-end,"['CSS3', 'JavaScript']"
+567,Front-end,"['CSS3', 'JavaScript']"
+568,Mobile,['Kotlin']
+569,Mobile,['Swift (iOS)']
+570,Full-stack,"['bdd', 'Git']"
+571,Mobile,['Swift (iOS)']
+572,Mobile,['Java (Android)']
+573,Front-end,"['CSS3', 'JavaScript']"
+574,Full-stack,"['JavaScript', 'Node.js']"
+575,Front-end,"['CSS3', 'JavaScript']"
+576,Front-end,"['CSS3', 'JavaScript']"
+577,Mobile,['Kotlin']
+578,Mobile,['Swift (iOS)']
+579,Full-stack,"['bdd', 'Git']"
+580,Mobile,['Swift (iOS)']
+581,Mobile,['Java (Android)']
+582,Front-end,"['CSS3', 'JavaScript']"
+583,Full-stack,"['JavaScript', 'Node.js']"
+584,Front-end,"['CSS3', 'JavaScript']"
+585,Front-end,"['CSS3', 'JavaScript']"
+586,Mobile,['Kotlin']
+587,Mobile,['Swift (iOS)']
+588,Full-stack,"['bdd', 'Git']"
+589,Mobile,['Swift (iOS)']
+590,Mobile,['Java (Android)']
+591,Front-end,"['CSS3', 'JavaScript']"
+592,Full-stack,"['JavaScript', 'Node.js']"
+593,Front-end,"['CSS3', 'JavaScript']"
+594,Front-end,"['CSS3', 'JavaScript']"
+595,Mobile,['Kotlin']
+596,Mobile,['Swift (iOS)']
+597,Full-stack,"['bdd', 'Git']"
+598,Mobile,['Swift (iOS)']
+599,Mobile,['Java (Android)']
+600,Front-end,"['CSS3', 'JavaScript']"
+601,Full-stack,"['JavaScript', 'Node.js']"
+602,Front-end,"['CSS3', 'JavaScript']"
+603,Front-end,"['CSS3', 'JavaScript']"
+604,Mobile,['Kotlin']
+605,Mobile,['Swift (iOS)']
+606,Full-stack,"['bdd', 'Git']"
+607,Mobile,['Swift (iOS)']
+608,Mobile,['Java (Android)']
+609,Front-end,"['CSS3', 'JavaScript']"
+610,Full-stack,"['JavaScript', 'Node.js']"
+611,Front-end,"['CSS3', 'JavaScript']"
+612,Front-end,"['CSS3', 'JavaScript']"
+613,Mobile,['Kotlin']
+614,Mobile,['Swift (iOS)']
+615,Full-stack,"['bdd', 'Git']"
+616,Mobile,['Swift (iOS)']
+617,Mobile,['Java (Android)']
+618,Front-end,"['CSS3', 'JavaScript']"
+619,Full-stack,"['JavaScript', 'Node.js']"
+620,Front-end,"['CSS3', 'JavaScript']"
+621,Front-end,"['CSS3', 'JavaScript']"
+622,Mobile,['Kotlin']
+623,Mobile,['Swift (iOS)']
+624,Full-stack,"['bdd', 'Git']"
+625,Mobile,['Swift (iOS)']
+626,Mobile,['Java (Android)']
+627,Front-end,"['CSS3', 'JavaScript']"
+628,Full-stack,"['JavaScript', 'Node.js']"
+629,Front-end,"['CSS3', 'JavaScript']"
+630,Front-end,"['CSS3', 'JavaScript']"
+631,Mobile,['Kotlin']
+632,Mobile,['Swift (iOS)']
+633,Full-stack,"['bdd', 'Git']"
+634,Mobile,['Swift (iOS)']
+635,Mobile,['Java (Android)']
+636,Front-end,"['CSS3', 'JavaScript']"
+637,Full-stack,"['JavaScript', 'Node.js']"
+638,Front-end,"['CSS3', 'JavaScript']"
+639,Front-end,"['CSS3', 'JavaScript']"
+640,Mobile,['Kotlin']
+641,Mobile,['Swift (iOS)']
+642,Full-stack,"['bdd', 'Git']"
+643,Mobile,['Swift (iOS)']
+644,Mobile,['Java (Android)']
+645,Front-end,"['CSS3', 'JavaScript']"
+646,Full-stack,"['JavaScript', 'Node.js']"
+647,Front-end,"['CSS3', 'JavaScript']"
+648,Front-end,"['CSS3', 'JavaScript']"
